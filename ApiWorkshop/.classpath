@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="WolframLib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="WolframLib/com.google.common_1.0.0.201004262004.jar"/>
+	<classpathentry kind="lib" path="WolframLib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="WolframLib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="WolframLib/ezmorph-1.0.jar"/>
+	<classpathentry kind="lib" path="WolframLib/google-collections.jar"/>
+	<classpathentry kind="lib" path="WolframLib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="WolframLib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="WolframLib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="WolframLib/jwiki-v1.2.jar"/>
+	<classpathentry kind="lib" path="WolframLib/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="WolframLib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="WolframLib/org.apache.commons.beanutils.jar"/>
+	<classpathentry kind="lib" path="WolframLib/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="WolframLib/ProClub-api.jar"/>
+	<classpathentry kind="lib" path="WolframLib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="WolframLib/Soham&apos;s Modified Wolfram 1.1.jar"/>
+	<classpathentry kind="lib" path="WolframLib/spotify-web-api-java-1.7.1.jar"/>
+	<classpathentry kind="lib" path="WolframLib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="FacebookLib/restfb-1.46.0.jar"/>
+	<classpathentry kind="lib" path="DropboxLib/dropbox-core-sdk-3.0.5.jar"/>
+	<classpathentry kind="lib" path="DropboxLib/jackson-core-2.7.4.jar"/>
+	<classpathentry kind="lib" path="DropboxLib/dropbox-core-sdk-3.0.5-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
